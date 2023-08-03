@@ -1,2 +1,2 @@
-# Brain_Tumor_Detection
-Brain Tumor Detection using CNN Image Classification
+<h1>Brain_Tumor_Detection</h1>
+Brain Tumor Detection which was implemented using CNN Image Classification
